@@ -1,0 +1,15 @@
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/bin/Debug/net7.0/CostCalulator
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/bin/Debug/net7.0/CostCalulator.deps.json
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/bin/Debug/net7.0/CostCalulator.runtimeconfig.json
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/bin/Debug/net7.0/CostCalulator.dll
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/bin/Debug/net7.0/CostCalulator.pdb
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/obj/Debug/net7.0/CostCalulator.csproj.AssemblyReference.cache
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/obj/Debug/net7.0/CostCalulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/obj/Debug/net7.0/CostCalulator.AssemblyInfoInputs.cache
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/obj/Debug/net7.0/CostCalulator.AssemblyInfo.cs
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/obj/Debug/net7.0/CostCalulator.csproj.CoreCompileInputs.cache
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/obj/Debug/net7.0/CostCalulator.dll
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/obj/Debug/net7.0/refint/CostCalulator.dll
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/obj/Debug/net7.0/CostCalulator.pdb
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/obj/Debug/net7.0/CostCalulator.genruntimeconfig.cache
+/Users/johnneshagraves/Projects/CostCalulator/CostCalulator/CostCalulator/obj/Debug/net7.0/ref/CostCalulator.dll
