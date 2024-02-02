@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{21C9E5DC-B63B-4D9E-95D3-556E987C512B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CostCalulator/Program.cs">
+    <Files>
+      <File FileName="CostCalulator/Program.cs" Line="7" Column="135" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CostCalulator">
+            <Node name="CostCalulator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CostCalulator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CostCalulator PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
